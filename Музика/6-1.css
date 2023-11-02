@@ -1,0 +1,23 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+
+    padding-left: 5%;
+    background-image: url(54.jpg);
+   color: rgb(4, 66, 87);
+   line-height: 25px;
+}
+ul{
+    list-style: square;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 15pt;
+}
+ol{
+    text-transform: capitalize;
+    font-size: 14pt;
+    font-weight: 700;
+}
+p{
+    font-size: larger;
+    text-align: justify;
+}
